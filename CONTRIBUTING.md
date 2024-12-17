@@ -6,7 +6,7 @@ Thank you for your interest in contributing to the Custom Vector Store project! 
 
 ### Reporting Issues
 
-If you encounter any bugs or have suggestions for improvements, please open an issue on our [GitHub Issues](https://github.com/your-repo/issues) page. When reporting an issue, please provide as much detail as possible, including steps to reproduce the issue and any relevant logs or screenshots.
+If you encounter any bugs or have suggestions for improvements, please open an issue on our [GitHub Issues](https://github.com/okaditya84/Custom-Vector-Store/issues) page. When reporting an issue, please provide as much detail as possible, including steps to reproduce the issue and any relevant logs or screenshots.
 
 ### Submitting Pull Requests
 
@@ -60,9 +60,6 @@ If you need help or have any questions, feel free to reach out by opening an iss
 
 Thank you for contributing to the Custom Vector Store project!
 
-## Code of Conduct
-
-We expect all contributors to adhere to our [Code of Conduct](https://github.com/your-repo/code-of-conduct). Please read it to understand the standards of behavior we expect from our community.
 
 ## License
 
